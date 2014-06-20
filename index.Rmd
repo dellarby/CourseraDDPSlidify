@@ -11,9 +11,11 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Prompt
+## The Challenge
 
 Using publically available data, evaluate and understand the rise and fall of sheep populations in 5 major sheep producing nations over the last quarter century.
+
+You should be able to observe the changes in sheep populations over time by selecting a year via the slider.
 
 --- .class #id 
 
